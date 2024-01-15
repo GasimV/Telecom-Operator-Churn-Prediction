@@ -21,15 +21,15 @@ The dataset consists of information about TeleDom's customers, including persona
    git clone https://github.com/GasimV/TeleDom-Churn-Prediction.git
    ```
 
-## Usage
+## Roadmap
 
-1. **Extract Data:**
+1. **Extract Data**
 
-2. **Data Analysis and Preprocessing:**
+2. **Data Analysis and Preprocessing**
 
-3. **Model Training:**
+3. **Model Training**
 
-4. **Model Evaluation:**
+4. **Model Evaluation**
 
 ## Contributing
 
